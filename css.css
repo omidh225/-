@@ -1,1 +1,6 @@
-style : ::backdrop labelsada 
+header {
+    background-color: brown;
+}
+.slider {
+    background-color: aqua;
+}
